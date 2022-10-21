@@ -1,0 +1,5 @@
+C:\Users\clecio\Documents\TREINAMENTO\Parallelal\aula07\TesteAtividade02\x64\Debug\TesteAtividade02.vcxproj.AssemblyReference.cache
+C:\Users\clecio\Documents\TREINAMENTO\Parallelal\aula07\TesteAtividade02\x64\Debug\TesteAtividade02.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\clecio\Documents\TREINAMENTO\Parallelal\aula07\TesteAtividade02\x64\Debug\TesteAtividade02.exe
+C:\Users\clecio\Documents\TREINAMENTO\Parallelal\aula07\TesteAtividade02\x64\Debug\TesteAtividade02.MyForm.resources
+C:\Users\clecio\Documents\TREINAMENTO\Parallelal\aula07\TesteAtividade02\x64\Debug\TesteAtividade02.vcxproj.GenerateResource.cache
